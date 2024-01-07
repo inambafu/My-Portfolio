@@ -101,6 +101,10 @@ section {
 	font-family: 'Roboto', sans-serif;
 }
 
+.home .container {
+	display: flex;
+	width: 100%;
+}
 
 
 
