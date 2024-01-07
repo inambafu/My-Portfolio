@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 html {
-	scroll-behaviour: smooth;
+	scroll-behavior: smooth;
 }
 
 * {
@@ -93,7 +93,7 @@ section {
 
 .home {
 	display: flex;
-	background: url("../images/bg-hero.jpeg") no-repeat center;
+	background: url("../images/bg.jpeg") no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 	height: 100vh;
