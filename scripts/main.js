@@ -15,6 +15,7 @@ $(document).ready(function(){
 		backSpeed: 60,
 		loop:true
 	});
+	
 });
 
 
