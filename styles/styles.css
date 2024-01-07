@@ -79,6 +79,15 @@ section {
 	display: none;
 }
 
+/* navbar sticky */
+.navbar.sticky {
+	padding: 15px 0;
+	background: #f3c031;
+}
+
+.navbar.sticky logo a span{
+	color: #0027ff;
+}
 
 
 
