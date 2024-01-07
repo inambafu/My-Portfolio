@@ -89,7 +89,17 @@ section {
 	color: #0027ff;
 }
 
+/* home section styling */
 
+.home {
+	display: flex;
+	background: url("../images/bg-hero.jpeg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	min-height: 500px;
+	font-family: 'Roboto', sans-serif;
+}
 
 
 
