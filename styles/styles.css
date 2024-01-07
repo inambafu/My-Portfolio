@@ -153,9 +153,24 @@ section {
 	border-radius: 5px;
 	transition: all 0.3s ease;
 }
-	
 
+#work-btn {
+	display: inline-block;
+	background: none;
+	color: #222;
+	border: 2px solid #0027ff;
+	transition: 0.3s ease;
+}	
 
+.home a:hover{
+	color: #222;
+	background: none;
+}
+
+#work-btn:hover{
+	color: #0027ff;
+	background: none;
+}
 
 
 
