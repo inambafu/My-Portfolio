@@ -10,7 +10,7 @@ $(document).ready(function(){
 	});
 	//typing effect
 	var typed = new Typed(".typing", {
-		strings: ["Web Designer", "Web Developer", "IT Freelancer", "IT Consultant"],
+		strings: ["Web Designer", "Web Developer", "Freelancer", "Consultant"],
 		typeSpeed: 100,
 		backSpeed: 60,
 		loop:true
