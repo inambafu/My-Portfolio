@@ -96,7 +96,7 @@ section {
 	background: url("../images/bg.jpeg") no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
-	height: 180vh;
+	height: 100vh;
 	min-height: 500px;
 	font-family: 'Roboto', sans-serif;
 }
